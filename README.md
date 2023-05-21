@@ -1,16 +1,14 @@
-# aroma_cafe
+# Aroma a Cafe
 
-A new Flutter project.
+[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
-## Getting Started
+Esta es una pequeña iniciativa en donde voy a ir creando un sitio web de una cafetería, en la cual voy a ir plasmando cada uno de los conceptos que vaya aprendiendo en flutter.
 
-This project is a starting point for a Flutter application.
+## Pequeña imagen del sitio web :heart_eyes:
 
-A few resources to get you started if this is your first Flutter project:
+![image proyect one](./assets/proyect.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sigamos avanzando en flutter :sunglasses:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image proyect one](./assets/proyect1.png)
